@@ -13,6 +13,7 @@ Application Layer Protocol:
 
 ## build commands:
 ```
+$ git clone https://github.com/shivamHCU/Find-the-thief-Multithreaded.git
 $ cd game
 $ javac *.java
 ```
