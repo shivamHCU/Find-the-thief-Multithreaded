@@ -9,11 +9,7 @@ Team Member Roles:
 Application Layer Protocol:
 * This game uses TCP to pass information between server and client.
 * First player to connect goes first
-* 
-* MTClient.java handles keyborad input from the user.
-* ClientListener.java recieves responses from the server and displays them
-* MTServer.java listens for client connections and creates a ClientHandler for each new client
-* ClientHandler.java recieves messages from a client and relays it to the other clients.
+* Player.java will handle the game play of a each player in diffrent threads.
 
 ## build commands:
 ```
