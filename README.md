@@ -4,8 +4,8 @@ This repo contins programs to run a 4-player find-the-thief game. It contains bo
 Git Primary Repo: https://github.com/shivamHCU/find-the-thief-multithreaded.git
 
 Team Member Roles:
-* Shivam Gangwar : Develop Entire Programs
-* Deepali Gupta  : Maintenance 
+* [Shivam Gangwar](https://github.com/shivamHCU) : Develop Entire Programs
+* Dipali Gupta  : Maintenance 
 Application Layer Protocol:
 * This game uses TCP to pass information between server and client.
 * First player to connect goes first
