@@ -28,11 +28,11 @@ The server window should output the following:
 ```
 Server awaiting connections...
  1 out of 4 is connected
-    Waiting for another player.
+    Waiting for another players
  2 out of 4 is connected
-    Waiting for another player
+    Waiting for another players
  3 out of 4 is connected
-    Waiting for another player
+    Waiting for another players
  4 out of 4 is connected
 All Player is connected! Now we can start the game! 
 Game Started...
