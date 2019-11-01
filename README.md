@@ -5,7 +5,7 @@ Git Primary Repo: https://github.com/shivamHCU/Find-the-thief-Multithreaded.git
 
 Team Member Roles:
 * [Shivam Gangwar](https://github.com/shivamHCU) : Develop Entire Programs
-* Dipali Gupta  : Maintenance 
+* [Dipali Gupta]((https://github.com/dipali1357)  : Maintenance 
 
 Application Layer Protocol:
 * This game uses TCP to pass information between server and client.
