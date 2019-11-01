@@ -1,5 +1,5 @@
 # Find-the-thief-multithreaded (4-Player)
-This repo contins programs to run a 4-player find-the-thief game. It contains both the server and client programs. Clients will be albe to play this game with each other over the netwotk using the our server. This is a CLI based Game.
+This repo contains programs to run a 4-player find-the-thief game. It contains both the server and client programs. Clients will be able to play this game with each other over the network using the our server. This is a CLI based Game.
 
 Git Primary Repo: https://github.com/shivamHCU/Find-the-thief-Multithreaded.git
 
