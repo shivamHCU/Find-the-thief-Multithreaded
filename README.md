@@ -24,7 +24,7 @@ $ java GameServer
 ```
 In each of the other windows, run the following:
 ```
-$ java GameClient
+$ java GameClient <IP Address>
 ```
 The server window should output the following:
 ```
